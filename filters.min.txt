@@ -1,13 +1,3 @@
-! Title: uBlock filters
-! Expires: 5 days
-! Last modified: Sat, 02 Dec 2023 02:47:25 +0000
-! Diff-Path: ../patches/2023.12.2.200.patch#ublock-filters
-! Diff-Name: ublock-filters
-! Diff-Expires: 317 minutes
-! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
-! *** uAssets:filters/filters.txt ***
-! http://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/page-25#post-2461804
-! Specific cosmetic filters for Youtube home page
 youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
 youtube.com###promotion-shelf
 *_ad_$media,domain=youtube.com,3p
