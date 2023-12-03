@@ -27,7 +27,7 @@ www.sostariffe.it
 ads.sisal.it
 adserver.html.it
 affiliate.across.it
-affiliati.gointernet.it/verify
+affiliati.gointernet.it
 affiliation.software
 affiliazioniads.snai.it
 campaigns.williamhill.it
@@ -290,7 +290,7 @@ evaneos.it
 expoitalyadv.it
 fantagenius.com
 fattoremamma.com
-favolefantasia.com/
+favolefantasia.com
 files.iqoption.com
 flywheel.cloud
 fotonerd.it
@@ -428,12 +428,12 @@ upcom.it
 uplink.aruba.it
 uzi.it
 viagogo.it
-visitbritainshop.com$image,third-party
+visitbritainshop.com
 vistosulweb.com
 vitaquotidiana.com
-vivere.news*_Alanuova.jpg
-webself.its/
-webster.it*iliati/
+vivere.news
+webself.its
+webster.it
 wecoclub.it
 widget.getyourguide.com
 widget.promoqui.it
