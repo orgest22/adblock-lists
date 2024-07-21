@@ -1,0 +1,32 @@
+Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other "Crap".
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/ultimate.txt
+
+Fake - Protects against internet scams, traps & fakes!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/fake-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake-onlydomains.txt
+
+Pop-Up Ads - Protects against annoying and malicious pop-up ads!
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads-onlydomains.txt
+
+Threat Intelligence Feeds - Increases security significantly! (Recommended)A blocklist for b
+locking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, 
+launch phishing attacks and host command-and-control servers.
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif-onlydomains.txt
+
+Threat Intelligence Feeds - Medium version (Recommended for browser/mobile adblockers)
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.medium-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.medium-onlydomains.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.medium-onlydomains.txt
+ 
+Domains registered in the last 14 days
+https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day.txt
+
+adult
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
