@@ -1,3 +1,5 @@
+               Ad Blocker host list 2024
+
 Questi host sono aggiornati una volta al anno per usare personalDNSfilter app di Android o pi hole, 
 bloccare tutto possibile le pubblicità.
 I file sono di dimensioni grandi e sono divisi.
